@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="64" height="64" role="img" aria-labelledby="title">
+  <title id="title">Ideal Code</title>
+  <style>
+    .tile { fill: #111111; }
+    .glyph { fill: #f2f1ed; }
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: #f2f1ed; }
+      .glyph { fill: #111111; }
+    }
+  </style>
+  <rect class="tile" width="1000" height="1000" rx="220"/>
+  <path class="glyph" d="M323.7 800V732.9H467.6V457.1H338.6V390.1H541.4V732.9H676.3V800Z"/>
+  <rect fill="#ff4d1a" x="439" y="200" width="118" height="118"/>
+</svg>

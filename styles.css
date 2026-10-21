@@ -86,7 +86,7 @@ p { margin: 0; }
 }
 .header-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
 .logo { font-family: var(--mono); font-weight: 500; font-size: 1rem; text-decoration: none; }
-.logo span { color: var(--accent); }
+.logo img, img.logo { display: block; height: auto; }
 .logo { display: inline-flex; align-items: center; gap: 8px; }
 .logo-icon { width: 20px; height: 20px; fill: none; stroke: var(--accent); stroke-width: 1.5; stroke-linejoin: round; stroke-linecap: round; }
 .nav { display: flex; align-items: center; gap: 2rem; }
